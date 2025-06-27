@@ -1,12 +1,12 @@
 {
   "news": [
     {
-      "title": "Welcome!",
-      "body": "This is a very cool body with some usefull information, can be very interesting to use! :D",
+      "title": "release!",
+      "body": "the first [color=100,255,150]official[/color] version of untitled chos game came out![nl]this update came with all the basic systems and fonctionnalities![nl]such as:[nl][nl](todo)",
       "date": 1751030160,
       "thumbnail": 18319018747,
       "version": 1,
-      "isPatch": false
+      "isPatch": true
     }
   ]
 }
